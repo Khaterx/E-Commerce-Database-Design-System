@@ -12,7 +12,7 @@ A comprehensive database design for a typical e-commerce platform. This project 
 
 
 ## E-Commerce ERD
-![e-commerce-erd.png](e-commerce-erd.png)
+![e-commerce-erd.png](assets/e-commerce-erd.png)
 ### Key Relationships:
 1. **Category to Products**: One-to-Many
     - A category can have many products
