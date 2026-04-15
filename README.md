@@ -1,4 +1,14 @@
+<<<<<<< .mine
 # 🛒 E-Commerce Database Design System
+=======
+# 🛒 E-Commerce Database Design
+>>>>>>> .theirs
+
+A comprehensive database design for a typical e-commerce platform. This project includes Entity-Relationship Diagrams (ERD), relationship definitions, realistic sample data, and essential reporting queries to support analysis and business intelligence use cases.
+
+---
+
+## 📑 Table of Contents
 
 A comprehensive database design for a typical e-commerce platform. This project includes Entity-Relationship Diagrams (ERD), relationship definitions, realistic sample data, and essential reporting queries to support analysis and business intelligence use cases.
 
