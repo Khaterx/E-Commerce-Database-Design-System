@@ -10,7 +10,7 @@ A comprehensive database design for a typical e-commerce platform. This project 
 - Realistic Data for Ecommerce
 - Reporting
 ## E-Commerce ERD
-![e-commerce-erd.png](assets/e-commerce-erd.png)
+![e-commerce-erd.png](e-commerce-erd.png)
 ### Key Relationships:
 1. **Category to Products**: One-to-Many
     - A category can have many products
@@ -26,7 +26,7 @@ A comprehensive database design for a typical e-commerce platform. This project 
     - Each order detail references exactly one product
 ---
 Ecommerce Schema:
-[[ecommerce_schema.sql]]
+[[02_Self_Learning/JAVA_SkillUp/Tasks/E-Commerce-database-design/assets/ecommerce_schema.sql]]
 
 ```SQL
 CREATE SCHEMA ECOMMERCE;  
